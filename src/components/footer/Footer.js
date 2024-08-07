@@ -7,7 +7,7 @@ const Footer = () => {
         href="https://github.com/catherineisonline/"
         target="_blank"
         rel="noreferrer">
-        Designed and Built by Keerthana sri Kolluri
+        Designed and built by Keerthana sri Kolluri
       </a>
     </article>
   );
